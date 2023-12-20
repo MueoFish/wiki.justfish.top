@@ -1,0 +1,30 @@
+/**
+*这里包含的任何CSS都是全局的。经典模板
+*默认捆绑Infima。Infima是一个CSS框架
+*适用于内容为中心的网站。
+* /
+
+/*你可以在这里覆盖默认的Infima变量。**/
+:root {
+  --ifm-color-primary: #d15b3d;
+  --ifm-color-primary-dark: #c44d2f;
+  --ifm-color-primary-darker: #ba492c;
+  --ifm-color-primary-darkest: #973b24;
+  --ifm-color-primary-light: #d66d53;
+  --ifm-color-primary-lighter: #d9775e;
+  --ifm-color-primary-lightest: #e1927e;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}

@@ -1,0 +1,8 @@
+{
+  "label": "ChatGPT 指南",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "该部分提供ChatGPT相关的内容，如：账号注册、API获取、无手机号抓取API"
+  }
+}
