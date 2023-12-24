@@ -44,14 +44,14 @@ const config = {
           // 请将此更改为您的repo。
           // 删除“编辑此页”链接。
           editUrl:
-            'https://github.com/MueoFish/wiki.justfish.top',
+            'https://github.com/MueoFish/wiki.justfish.top/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // 请将此更改为您的repo。
           // 删除“编辑此页”链接。
           editUrl:
-            'https://github.com/MueoFish/wiki.justfish.top',
+            'https://github.com/MueoFish/wiki.justfish.top/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
