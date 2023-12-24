@@ -206,8 +206,15 @@ ufw allow 1234/tcp
 ```
 ufw enable
 ```
-出现以下内容输入大写`y` 回车
+出现以下内容输入小写 `y` 回车
 ```
 Command may disrupt existing ssh connections. Proceed with operation (y|n)?
 ```
 启动成功即可。至此，VPS部署酒馆结束
+
+访问以下即可打开酒馆
+```
+VPS-ip:酒馆端口
+
+//如 123.0.0.666:1234
+```
