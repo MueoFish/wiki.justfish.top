@@ -10,7 +10,7 @@ slug: /
 <body>
 <p align="center">
     <a href="#" target="_blank" rel="noopener noreferrer">
-        <img width="100" src={require('./img/logo.png').default} alt="justfish logo" />
+        <img width="100" src={require('../static/img/logo.png').default} alt="justfish logo" />
     </a>
 </p>
 
@@ -45,7 +45,7 @@ slug: /
 
 ## 阅读指南
 
-在本文档中，均视为已有可访问外网的梯子
+文档中操作请在魔法环境下进行，避免因网络问题出现错误
 
 
 ### 简单入门
@@ -112,7 +112,7 @@ Require stack:
     at Module.xxx
     at Function.xxx [as runMain] (node:internal/modules/run_main:135:12) {
   code: 'MODULE_NOT_FOUND',
-  requireStack: [ 'D:\\Desktop\\attached\\Code\\Nodejs\\AI\\demo\\chat.js' ]
+  requireStack: [ 'xxx\xxx\xxx\demo.js' ]
 }
 ```
 ...

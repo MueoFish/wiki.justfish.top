@@ -1,41 +1,31 @@
-# Website
+<body>
+<p align="center">
+    <a href="#" target="_blank" rel="noopener noreferrer">
+        <img width="100" src="static/img/logo.png" alt="justfish logo" />
+    </a>
+</p>
 
-这个网站是使用[Docusaurus](https://docusaurus.io/)建立的，这是一个现代的静态网站生成器。
+<p align="center"><b>Just Fish</b>, 一个为小白准备的教程文档集合</p>
+<p align="center"> <b>提供详细、花费低、适合小白的教程</b>.</p>
+</body>
 
-### Installation
+------------------------------
 
-```
-$ yarn
-```
+## 快速开始
 
-### Local Development
+本文档所有**原创内容**遵从 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans) 协议 
 
-```
-$ yarn start
-```
+本页为简介，后续则为快速入门相关内容，为各部分互通的内容
 
-该命令启动本地开发服务器并打开浏览器窗口。大多数更改都是实时反映的，而无需重新启动服务器。
+## 你需要什么
 
-### Build
+显而易见，AI方面只需要会聊天就可以了
 
-```
-$ yarn build
-```
+但由于不同AI的门槛不同，并不是所有AI都像QQ那样打开即用
 
-该命令将静态内容生成到“build”目录中，并且可以使用任何静态内容托管服务。
+所以，你需要准备
 
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-如果您正在使用GitHub页面进行托管，则此命令是构建网站并推送到' gh-pages '分支的方便方法。
+ - **支持的设备** (可能需要PC)
+ - **一个能够访问所有AI的节点** (如US)
+ - **愿意学习的精神** (可能会有没见过的知识)
+ - **谦虚和耐心** (可能会有复杂的操作和问题)

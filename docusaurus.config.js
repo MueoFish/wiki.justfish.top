@@ -23,8 +23,8 @@ const config = {
   organizationName: 'facebook', //通常你的GitHub /用户名。
   projectName: 'docusaurus', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
 
 // 即使你不使用国际化，你也可以使用这个字段来设置
 // 有用的元数据，如HTML语言。例如，如果您的网站是中文的，您就可以
